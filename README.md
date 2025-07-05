@@ -1,13 +1,15 @@
 Task 3 of Future Intern in the track of Cyber Security
 
-Analyst: Amithabh D.K
+**Analyst:**``` Amithabh D.K```
 
-Task Summary:
+**Task Summary:**
+```
 Built a secure file upload/download web portal using Flask with AES-256 encryption. Files uploaded are encrypted before storage and decrypted on-demand when downloaded. The application was deployed on Render.
+```
 
+**🧰 Tech Stack & Tools Used:**
 
-🧰 Tech Stack & Tools Used:
-
+```
 Python Flask - Backend web framework for handling HTTP requests and routing
 
 PyCryptodome - Cryptography library for AES-256 encryption/decryption
@@ -29,11 +31,11 @@ Hashlib - SHA-256 hashing for file integrity checks
 Socket - Network utilities for IP detection
 
 Git & GitHub - Version control and code hosting
+```
 
-
-How to setup:
-
-
+**How to setup:
+**
+```
 # Step 1: Clone the repository
 git clone https://github.com/Amithabh0314/FUTURE_CS_03.git
 cd FUTURE_CS_03
@@ -47,3 +49,4 @@ pip install -r requirements.txt
 
 # Step 4: Run the Flask app with SSL
 python app.py
+```
