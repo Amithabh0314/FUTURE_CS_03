@@ -33,8 +33,8 @@ Socket - Network utilities for IP detection
 Git & GitHub - Version control and code hosting
 ```
 
-**How to setup:
-**
+**How to setup:**
+
 ```
 # Step 1: Clone the repository
 git clone https://github.com/Amithabh0314/FUTURE_CS_03.git
